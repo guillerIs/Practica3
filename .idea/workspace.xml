@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe2d81c6-d4f2-44de-9103-c0375970a936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tokeniza_Archivo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tokenizar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/tokenizar.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="42" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="42" />
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -38,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tokeniza_Archivo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-173">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="440">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -274,19 +272,25 @@
       <option name="project" value="LOCAL" />
       <updated>1567687002260</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="para el ejercicio de distancia de Hamming, cambié para que la entrada de 'palabra' sea desde el teclado&#10;&#10;De la practica 3, en la seccion 2.1 quedó tokenización">
+      <created>1567690917991</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567690917991</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.26339287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3764321" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2569558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -302,7 +306,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="para el ejercicio de distancia de Hamming, cambié para que la entrada de 'palabra' sea desde el teclado" />
-    <option name="LAST_COMMIT_MESSAGE" value="para el ejercicio de distancia de Hamming, cambié para que la entrada de 'palabra' sea desde el teclado" />
+    <MESSAGE value="para el ejercicio de distancia de Hamming, cambié para que la entrada de 'palabra' sea desde el teclado&#10;&#10;De la practica 3, en la seccion 2.1 quedó tokenización" />
+    <option name="LAST_COMMIT_MESSAGE" value="para el ejercicio de distancia de Hamming, cambié para que la entrada de 'palabra' sea desde el teclado&#10;&#10;De la practica 3, en la seccion 2.1 quedó tokenización" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Distancia.py">
@@ -336,7 +341,7 @@
     <entry file="file://$PROJECT_DIR$/tokenizar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="42" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="42" />
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -345,8 +350,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tokeniza_Archivo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="440">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
