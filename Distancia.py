@@ -4,8 +4,8 @@ import distance
 #Distancia de Hamming Mide el número de posiciones con caracteres que no coinciden.
 
 
-palabra1="roma"
-palabra2="bola"
+palabra1= input("Escribe la primera palabra:")
+palabra2=input("Escribe la segunada palabra:")
 
 longitud1=len(palabra1)
 longitud2=len(palabra2)
@@ -23,4 +23,4 @@ def distHamming(palabra1,palabra2):
     return diferencia
 
 
-print (distHamming(palabra1,palabra2))
+print ("La distancia de Hamming es:",distHamming(palabra1,palabra2))
