@@ -5,7 +5,7 @@ toktok = ToktokTokenizer()
 # Tokenizador de oraciones
 es_tokenizador_oraciones = nltk.data.load("tokenizers/punkt/spanish.pickle")
 # Obtener oraciones de un parrafo
-parrafo = "Este es un texto de prueba. ¿Crees que pueda tokenizar bien cada oraci´ on? ¡Ya lo veremos!"
+parrafo = "Este es un texto de prueba. ¿Crees que pueda tokenizar bien cada oración? ¡Ya lo veremos!"
 oraciones = es_tokenizador_oraciones.tokenize(parrafo)
 # Obtener tokens de cada oraci´ on
 for s in oraciones:
